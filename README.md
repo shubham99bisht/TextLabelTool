@@ -1,7 +1,11 @@
 ## Bill Label Tool
 
-This folder contains tool for efficiently hand labelling various entity in Invoices.
-**This step works after OCR** i.e it requires all the text to be extracted from the invoice images.
+This folder contains tool for efficiently hand labelling various entity in Invoices.<br/>
+**This step works after OCR** i.e it requires all the text to be first extracted from the invoice images.
+
+Natural Language Processing (NLP) has many subsets which involve Text Classification and Named Entity Recognition (NER), this repository is a tool for efficiently labelling datasets for such tasks.
+This tool can be easily modified for preparing data for any text classification or NER task, simply by changing labels in `templates/index.html` file.
+
 
 **Requirements**
 Dependencies for using this tool:<br/>
@@ -11,9 +15,11 @@ Dependencies for using this tool:<br/>
 <br/>
 **DEMO**
 <br/>
+Try it out yourself at: https://shubham99bisht.github.io/TextLabelTool/
+
 Here's a demo on how we can efficiently label large dataset quickly!
 
-![](Media/demo_BillLabel.gif)
+![](Media/Demo.gif)
 
 **Steps:**
 <br/>
@@ -21,7 +27,7 @@ Here's a demo on how we can efficiently label large dataset quickly!
 1. Extract all the text and store the .txt files in /data folder. (It is assumed that all files are named sequentially starting from 1)
 2. Run
     ```
-    $ python3 preprocess.py
+        $ python3 preprocess.py
     ``` 
 3. Start Flask server to start Labelling:
     ```
@@ -41,10 +47,14 @@ Here's a demo on how we can efficiently label large dataset quickly!
      ```
         dataset = torch.load("final_data.pth")
      ```
-**Visualization**
+## Visualization
 
 To check and verify your labels:
-```
-    $ python color_print.py
-```
-NOTE: This can be runned after generating the .json files in results folder.
+     ```
+        $ python color_print.py
+     ```
+**Sample Output:**<br/>
+<br/>
+![](Media/s.png)
+
+NOTE: This can be run after generating the .json files in results folder.
