@@ -1,0 +1,334 @@
+{
+  "Bills" : {
+    "Dt014Ow9GaPbZKwuOND7F6dCcxw1" : {
+      "1934" : {
+        "amount" : "766",
+        "category" : "Misc",
+        "date" : "2/2/2020",
+        "place" : "Ambernath",
+        "vendor" : "Brijo"
+      },
+      "2051" : {
+        "amount" : "87",
+        "category" : "Ration",
+        "date" : "9/2/2020",
+        "place" : "nsnb",
+        "vendor" : "khhsh"
+      },
+      "2894" : {
+        "amount" : "97",
+        "category" : "Travel",
+        "date" : "13/1/2020",
+        "place" : "ulhas",
+        "vendor" : "vendor"
+      },
+      "2969" : {
+        "amount" : "099",
+        "category" : "Govt Public Bills",
+        "date" : "14/2/2020",
+        "place" : "test2",
+        "vendor" : "test2"
+      },
+      "3500" : {
+        "amount" : "999",
+        "category" : "Travel",
+        "date" : "6/2/2020",
+        "place" : "test",
+        "vendor" : "test"
+      },
+      "3833" : {
+        "amount" : "200",
+        "category" : "Travel",
+        "date" : "15/9/2019",
+        "place" : "kalyan",
+        "vendor" : "maruti suzuki"
+      },
+      "4039" : {
+        "amount" : "35",
+        "category" : "Travel",
+        "date" : "12/1/2020",
+        "place" : "Mumbai",
+        "vendor" : "MSRDC"
+      },
+      "4087" : {
+        "amount" : "98",
+        "category" : "Govt Public Bills",
+        "date" : "2/2/2020",
+        "place" : "run",
+        "vendor" : "run"
+      },
+      "5647" : {
+        "amount" : "500",
+        "category" : "Misc",
+        "date" : "24/2/2020",
+        "place" : "library",
+        "vendor" : "Bottle"
+      },
+      "5739" : {
+        "amount" : "79",
+        "category" : "Food",
+        "date" : "11/2/2020",
+        "place" : "la",
+        "vendor" : "hah"
+      },
+      "6339" : {
+        "amount" : "600",
+        "category" : "Recharge Payment",
+        "date" : "5/2/2020",
+        "place" : "kurla",
+        "vendor" : "hello"
+      },
+      "6731" : {
+        "amount" : "460",
+        "category" : "Food",
+        "date" : "5/2/2020",
+        "place" : "test2",
+        "vendor" : "test"
+      },
+      "7445" : {
+        "amount" : "988",
+        "category" : "Govt Public Bills",
+        "date" : "20/2/2020",
+        "place" : "test",
+        "vendor" : "test"
+      },
+      "7745" : {
+        "amount" : "67",
+        "category" : "Food",
+        "date" : "24/2/2020",
+        "place" : "haaj",
+        "vendor" : "x"
+      },
+      "8477" : {
+        "amount" : "89",
+        "category" : "Travel",
+        "date" : "19/2/2020",
+        "place" : "test",
+        "vendor" : "test"
+      },
+      "8586" : {
+        "amount" : "71",
+        "category" : "Food",
+        "date" : "29/2/2020",
+        "place" : "jsj",
+        "vendor" : "hsh"
+      },
+      "8916" : {
+        "amount" : "87",
+        "category" : "Food",
+        "date" : "18/2/2020",
+        "place" : "new",
+        "vendor" : "new"
+      },
+      "9109" : {
+        "amount" : "099",
+        "category" : "Medicals",
+        "date" : "16/2/2020",
+        "place" : "temp",
+        "vendor" : "temp"
+      },
+      "9282" : {
+        "amount" : "450",
+        "category" : "Banking-Insurance",
+        "date" : "17/2/2020",
+        "place" : "Andheri",
+        "vendor" : "Prathamesh"
+      },
+      "9511" : {
+        "amount" : "800",
+        "category" : "Food",
+        "date" : "11/2/2020",
+        "place" : "test",
+        "vendor" : "test"
+      }
+    },
+    "F2WKzDkPhWWERvUZKSmGjsdeJDk2" : {
+      "1617" : {
+        "amount" : "71",
+        "category" : "Food",
+        "date" : "27/2/2020",
+        "place" : "bsn",
+        "vendor" : "jsj"
+      }
+    },
+    "W9Tj9L9QkchOY160BxkZ7E3VK1l2" : {
+      "1241" : {
+        "amount" : "88",
+        "category" : "Food",
+        "date" : "19/2/2020",
+        "place" : "dbit",
+        "vendor" : "sunantha"
+      },
+      "2488" : {
+        "amount" : "88",
+        "category" : "Ration",
+        "date" : "11/2/2020",
+        "place" : "dbit",
+        "vendor" : "suman"
+      },
+      "2592" : {
+        "amount" : "98",
+        "category" : "Food",
+        "date" : "12/2/2020",
+        "place" : "h",
+        "vendor" : "a"
+      },
+      "2787" : {
+        "amount" : "100",
+        "category" : "Recharge Payment",
+        "date" : "11/2/2020",
+        "place" : "place",
+        "vendor" : "money "
+      },
+      "3590" : {
+        "amount" : "900",
+        "category" : "Recharge Payment",
+        "date" : "24/2/2020",
+        "place" : "kanjurmarg",
+        "vendor" : "shubham"
+      },
+      "3998" : {
+        "amount" : "1000",
+        "category" : "Shopping",
+        "date" : "22/2/2020",
+        "place" : "ambernath",
+        "vendor" : "kv Amber"
+      },
+      "4606" : {
+        "amount" : "88",
+        "category" : "Food",
+        "date" : "12/2/2020",
+        "place" : "dbit",
+        "vendor" : "sunantha"
+      },
+      "5327" : {
+        "amount" : "50",
+        "category" : "Travel",
+        "date" : "3/2/2020",
+        "place" : "Dombivali",
+        "vendor" : "Xperia mall"
+      },
+      "5657" : {
+        "amount" : "9000",
+        "category" : "Ration",
+        "date" : "11/2/2020",
+        "place" : "kurla",
+        "vendor" : "shadrak"
+      },
+      "6278" : {
+        "amount" : "100",
+        "category" : "Ration",
+        "date" : "24/2/2020",
+        "place" : "kanjurmarg",
+        "vendor" : "shubham"
+      },
+      "7381" : {
+        "amount" : "899",
+        "category" : "Food",
+        "date" : "23/1/2020",
+        "place" : "andheri",
+        "vendor" : "playpratz"
+      },
+      "8116" : {
+        "amount" : "98",
+        "category" : "Food",
+        "date" : "30/1/2020",
+        "place" : "j",
+        "vendor" : "dj"
+      },
+      "9228" : {
+        "amount" : "2000",
+        "category" : "Travel",
+        "date" : "16/2/2020",
+        "place" : "mumbai",
+        "vendor" : "MSRDC"
+      },
+      "9978" : {
+        "amount" : "929",
+        "category" : "Food",
+        "date" : "24/2/2020",
+        "place" : "nsnak",
+        "vendor" : "hsh"
+      }
+    },
+    "shadrak" : {
+      "1007" : {
+        "Amount" : "$4520.00",
+        "Category" : "None",
+        "Date" : "10/07/14",
+        "Vendor" : ""
+      }
+    },
+    "gONUGHM3bQUGyou8PcatDN2OM1q2" : {
+      "0001" : {
+        "amount" : "400",
+        "date" : "24/2/2020",
+        "place" : "kanjurmarg",
+        "category" : "Misc",
+        "vendor" : "Mukund",
+        "status" : "0",
+        "link" : "www.google.com",
+        "items" : "mukund, uska, bacha"
+      },
+      "0002" : {
+        "amount" : "300",
+        "date" : "24/2/2020",
+        "place" : "powai",
+        "category" : "Food",
+        "vendor" : "Mukund",
+        "status" : "1",
+        "link" : "www.github.com",
+        "items" : "mukund, uska, bacha"
+      },
+      "0003" : {
+        "amount" : "300",
+        "date" : "24/3/2020",
+        "place" : "kanjurmarg",
+        "category" : "Travel",
+        "vendor" : "shubham",
+        "status" : "0",
+        "link" : "www.google.com",
+        "items" : "mukund, uska, bacha"
+      },
+      "0004" : {
+        "amount" : "400",
+        "date" : "24/2/2020",
+        "place" : "kanjurmarg",
+        "category" : "Misc",
+        "vendor" : "Mukund",
+        "status" : "0",
+        "link" : "www.google.com",
+        "items" : "mukund, uska, bacha"
+      },
+      "0005" : {
+        "amount" : "400",
+        "date" : "24/2/2020",
+        "place" : "kanjurmarg",
+        "category" : "Travel",
+        "vendor" : "Mukund",
+        "status" : "0",
+        "link" : "www.google.com",
+        "items" : "mukund, uska, bacha"
+      }
+    }
+  },
+  "Category" : [ null, "Food", "Shopping", "Medicals", "Travel", "Banking-Insurance", "Govt Public Bills", "Ration", "Recharge Payment", "Misc" ],
+  "users" : {
+    "Dt014Ow9GaPbZKwuOND7F6dCcxw1" : {
+      "Email" : "shdrakgurupnor@gmail.com",
+      "Name" : "Shadrak",
+      "Userid" : "Dt014Ow9GaPbZKwuOND7F6dCcxw1"
+    },
+    "W9Tj9L9QkchOY160BxkZ7E3VK1l2" : {
+      "Email" : "xyz@abc.in",
+      "Name" : "xyz",
+      "Userid" : "W9Tj9L9QkchOY160BxkZ7E3VK1l2"
+    },
+    "gONUGHM3bQUGyou8PcatDN2OM1q2" : {
+      "Email" : "abc@xyz.in",
+      "Name" : "abc",
+      "Prev_id" : "0006",
+      "Userid" : "gONUGHM3bQUGyou8PcatDN2OM1q2"
+    }
+  }
+}
