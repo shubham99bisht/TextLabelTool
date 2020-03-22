@@ -30,6 +30,7 @@ def color_print(text, text_class):
 data = os.listdir("ground_truth")
 x = 1
 skip = 0
+data = ["12.txt"]
 for i in data:
     print(i)
     if x==0: break
