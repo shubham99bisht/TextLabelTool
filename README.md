@@ -7,10 +7,12 @@ Natural Language Processing (NLP) has many subsets which involve Text Classifica
 This tool can be easily modified for preparing data for any text classification or NER task, simply by changing labels in `templates/index.html` file.
 
 
-**Requirements**
-Dependencies for using this tool:<br/>
-    1. Flask<br/>
-    2. Pytorch
+**Requirements**<br/>
+Dependencies for using this tool:
+<br/>
+1. Flask
+2. Pytorch
+
 <br/>
 <br/>
 **DEMO**
@@ -21,7 +23,7 @@ Here's a demo on how we can efficiently label large dataset quickly!
 
 ![](Media/Demo.gif)
 
-**Steps:**
+## Steps:
 <br/>
 
 1. Extract all the text and store the .txt files in /data folder. (It is assumed that all files are named sequentially starting from 1)
@@ -57,4 +59,6 @@ To check and verify your labels:
 <br/>
 ![](Media/s.png)
 
-NOTE: This can be run after generating the .json files in results folder.
+<b>NOTE:</b><br/>
+1. This can be run after generating the .json files in results folder.
+2. In case `color_print.py` doesn't print output as expected (colour encoding for different labels), then try `color_print2.py`, it uses an external library for printing coloured output.
